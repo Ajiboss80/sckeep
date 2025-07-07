@@ -51,17 +51,9 @@ const Signup = () => {
     <div className="flex flex-col min-h-screen items-center justify-center bg-slate-50 dark:bg-gray-900 p-4">
       <div className="w-full max-w-sm space-y-4">
         <div className="text-center">
-<<<<<<< HEAD
           <span className="inline-flex items-center">
               <img src={logoSrc} alt="Sckeep" className="h-21" />
           </span>
-=======
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight mb-2 mx-auto">
-            Join <span className="inline-flex items-center">
-              <img src={logoSrc} alt="Sckeep" className="h-6 md:h-8 ml-1" />
-            </span>
-          </h1>
->>>>>>> 66ede28e879a4b376c88d4ccea517bf8f5f59342
           <p className="text-sm text-muted-foreground mx-auto">Create your account to get started</p>
         </div>
 
